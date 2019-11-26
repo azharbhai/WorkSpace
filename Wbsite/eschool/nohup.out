@@ -1,0 +1,156 @@
+Watching for file changes with StatReloader
+[25/Nov/2019 13:32:29] "GET / HTTP/1.1" 200 16348
+[25/Nov/2019 13:32:30] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[25/Nov/2019 13:32:31] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[25/Nov/2019 13:32:31] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[25/Nov/2019 13:32:31] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[25/Nov/2019 15:49:45] "GET / HTTP/1.1" 200 16348
+[25/Nov/2019 15:49:45] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[25/Nov/2019 15:49:46] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[25/Nov/2019 15:49:46] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[25/Nov/2019 15:49:47] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[25/Nov/2019 15:49:50] "GET /favicon.ico HTTP/1.1" 404 2013
+[25/Nov/2019 22:46:39] code 400, message Bad request syntax ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03Ý\x02\x902¥#@Çó\r-\x92?\x19\x8dî¢ß¶Js~éØ\x1d\x0b{ú\x90Ïx\x17\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À')
+[25/Nov/2019 22:46:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Invalid HTTP_HOST header: '3.135.244.135'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[25/Nov/2019 23:42:59] "GET / HTTP/1.1" 400 59737
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[25/Nov/2019 23:43:00] "GET /favicon.ico HTTP/1.1" 400 59893
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[26/Nov/2019 05:42:55] "GET / HTTP/1.1" 400 60698
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 05:42:57] "GET /favicon.ico HTTP/1.1" 400 61086
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[26/Nov/2019 05:44:04] "GET / HTTP/1.1" 400 61037
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 05:44:05] "GET /favicon.ico HTTP/1.1" 400 61086
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[26/Nov/2019 05:44:07] "GET / HTTP/1.1" 400 60698
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 05:44:08] "GET /favicon.ico HTTP/1.1" 400 60747
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[26/Nov/2019 05:44:09] "GET / HTTP/1.1" 400 60698
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 05:44:10] "GET /favicon.ico HTTP/1.1" 400 60747
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[26/Nov/2019 05:44:12] "GET / HTTP/1.1" 400 61172
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 05:44:14] "GET /favicon.ico HTTP/1.1" 400 60747
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[26/Nov/2019 05:44:26] "GET / HTTP/1.1" 400 61172
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 05:44:27] "GET /favicon.ico HTTP/1.1" 400 61347
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /
+[26/Nov/2019 05:53:48] "GET / HTTP/1.1" 400 61172
+Invalid HTTP_HOST header: '3.135.244.135:8000'. You may need to add '3.135.244.135' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 05:53:53] "GET /favicon.ico HTTP/1.1" 400 61347
+Not Found: /favicon.ico
+[26/Nov/2019 06:01:13] "GET /favicon.ico HTTP/1.1" 404 2013
+[26/Nov/2019 06:01:20] "GET / HTTP/1.1" 200 16348
+[26/Nov/2019 06:01:20] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+Not Found: /school
+[26/Nov/2019 06:17:34] "GET /school HTTP/1.1" 404 1998
+Not Found: /school
+[26/Nov/2019 06:32:16] "GET /school HTTP/1.1" 404 1998
+Not Found: /school
+[26/Nov/2019 06:32:19] "GET /school HTTP/1.1" 404 1998
+Not Found: /school
+[26/Nov/2019 06:40:04] "GET /school HTTP/1.1" 404 1998
+Not Found: /school
+[26/Nov/2019 06:40:16] "GET /school HTTP/1.1" 404 1998
+Not Found: /school
+[26/Nov/2019 06:40:19] "GET /school HTTP/1.1" 404 1998
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[26/Nov/2019 07:45:34] "GET /school/ HTTP/1.1" 200 17
+[26/Nov/2019 07:46:41] "GET /school/ HTTP/1.1" 200 17
+[26/Nov/2019 07:47:01] "GET /school/ HTTP/1.1" 200 17
+Not Found: /favicon.ico
+[26/Nov/2019 07:47:02] "GET /favicon.ico HTTP/1.1" 404 2121
+[26/Nov/2019 07:50:29] "GET /school/ HTTP/1.1" 200 17
+/home/ec2-user/WorkSpace/Wbsite/eschool/school/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 17 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+November 26, 2019 - 07:44:48
+Django version 2.2.7, using settings 'eschool.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[26/Nov/2019 07:51:54] "GET /school/ HTTP/1.1" 200 21
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /school/
+[26/Nov/2019 07:53:21] "GET /school/ HTTP/1.1" 400 61164
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 07:53:22] "GET /favicon.ico HTTP/1.1" 400 61144
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /school/
+[26/Nov/2019 07:53:35] "GET /school/ HTTP/1.1" 400 61299
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 07:53:36] "GET /favicon.ico HTTP/1.1" 400 61144
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /school/
+[26/Nov/2019 07:53:38] "GET /school/ HTTP/1.1" 400 61299
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+[26/Nov/2019 07:53:40] "GET /favicon.ico HTTP/1.1" 400 61405
+[26/Nov/2019 07:55:33] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03x²ð\x95+\x82\x8d×\x98euJ\x88\x8f\x0f\t#Z5¸\x1c|\'\x08ÎÈ8\x82 ÿ\x15\t U»°Ôý8LC¶vT%\x86u"Ñ\x01¾RÑtTS7(\x04Y·\'9\x90}\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:33] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ã\x01q)\t\x18$©ò¢\x0bé¨6þ\t¦\x159íQÿR\x85üí%ø@°~ï ù\x14÷Z[Á#ÿY\x08«I\x86×k¤¶´$[¶áfÂY\x18·Ù\x15PÆ\xad\x00"**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:37] code 400, message Bad request version ('±ú<îF-1W©ERÀ\x86<\x12n°¯Ò\x91\x94\x16\x00ôPx\x92åÃ§\x8aÎ\x00"JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:37] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03!úh\x1bÒ\x00É^\x02«\x0f\x88ã\x80[\x88ñ`Rj?¨\x93\x99ìïÃ\x11\x0f\x18\x18\x8d ù\xa0:\x1dc0\x00"+\x99à\x9cÁòlªb\x95\x99Y^\x17òej\x95i²·\x03Ýê\x00"\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:37] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03-Ò\x815,íV\x8dG\x00t_\x13\x06\x05\x01Tsf!1°\x97ÈwMRz±\x0f\x86\x05 º²u\x81¼\x87½+¿:«Á£¼µ\x90\xa0ý\x85ÖÐè©/2éfxª)÷\x14\x00"êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:39] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¾óJ~ô\x87\x1dn[|/Zo`\x02è{\x9d¿\xadeÝ!0©\x0b\x13æ\x97£Î\x19 L\x04ÚÙ4Ad²Kè\x92\x85È^j\x1cVÑ0\x9faÅ]+AM\x81\x88`ç\x1fa\x00"úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:39] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03 Ô\x84×ªÄ¯×\x88ÌÍÙôó£\t\x84¼/\x1foÇ\x06ð\x13§\x11ù\x9c=\x99O Ðu]°ÙÿØ^i¬À¼\x81í\x9d3èu\x06ô{3nu\x01ê\x08hN\x9f<9\x00"ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:46] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03çùÈ¾\x1f\x80-·É\x7fØ2\x00\x89NÖè¤X"Y\x90a \x9e®\x94P\x930#$ \x95L¨ª\x7fÕ·Ë\x16È\xa0aWÛ8O\x8b\x94I\x8aê\x8cõe4¨\x16ÊÏBsx\x00"\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[26/Nov/2019 07:55:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:46] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03®'¾\x14äoÂÜâ\x87\x14ü>,DÙã\x8fÎ1fÈ°\x94\x92ÅD&<\x9f¶)")
+[26/Nov/2019 07:55:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[26/Nov/2019 07:55:57] "GET /school/ HTTP/1.1" 200 21
+Not Found: /favicon.ico
+[26/Nov/2019 07:55:58] "GET /favicon.ico HTTP/1.1" 404 2121
+[26/Nov/2019 07:56:09] "GET /school/ HTTP/1.1" 200 21
+[26/Nov/2019 09:20:43] "GET /school/ HTTP/1.1" 200 21
+Not Found: /favicon.ico
+[26/Nov/2019 09:20:44] "GET /favicon.ico HTTP/1.1" 404 2121
+[26/Nov/2019 11:52:11] "GET /school/ HTTP/1.1" 200 21
+Not Found: /favicon.ico
+[26/Nov/2019 11:52:12] "GET /favicon.ico HTTP/1.1" 404 2121
