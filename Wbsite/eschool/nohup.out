@@ -154,3 +154,33 @@ Not Found: /favicon.ico
 [26/Nov/2019 11:52:11] "GET /school/ HTTP/1.1" 200 21
 Not Found: /favicon.ico
 [26/Nov/2019 11:52:12] "GET /favicon.ico HTTP/1.1" 404 2121
+[26/Nov/2019 22:34:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[26/Nov/2019 22:34:47] "  +&à     Cookie: mstshash=hello" 400 -
+[27/Nov/2019 06:09:05] "GET /school/ HTTP/1.1" 200 21
+[27/Nov/2019 06:09:14] "GET /school HTTP/1.1" 301 0
+[27/Nov/2019 06:09:14] "GET /school/ HTTP/1.1" 200 21
+Not Found: /
+[27/Nov/2019 06:09:15] "GET / HTTP/1.1" 404 2070
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /
+[27/Nov/2019 14:19:55] "GET / HTTP/1.1" 400 59582
+[28/Nov/2019 04:26:44] code 400, message Bad request version ('À\x14À')
+[28/Nov/2019 04:26:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Invalid HTTP_HOST header: '18.218.104.150:8000'. You may need to add '18.218.104.150' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Nov/2019 07:03:51] "GET / HTTP/1.1" 400 59675
+[28/Nov/2019 07:08:06] "GET /school/ HTTP/1.1" 200 21
+Not Found: /favicon.ico
+[28/Nov/2019 07:08:08] "GET /favicon.ico HTTP/1.1" 404 2121
+[28/Nov/2019 07:10:56] "GET /school/ HTTP/1.1" 200 21
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 17 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+November 26, 2019 - 07:51:41
+Django version 2.2.7, using settings 'eschool.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
